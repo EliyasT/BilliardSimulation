@@ -3,9 +3,9 @@
 
 This project is a billiard simulation implemented using Three.js, a JavaScript library for creating 3D graphics in web browsers. The simulation adheres to specific requirements outlined for the project, including realistic table proportions, ball movement, collisions, lighting, and shadows.
 
-** Requirements**
+ **Requirements**
 
-** 1. Table and Environment**
+ **1. Table and Environment**
 - A billiard table of realistic proportions is created, complete with cushions and legs.
 - The table is placed on the ground to provide a realistic setting.
 
